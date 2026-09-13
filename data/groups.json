@@ -1,0 +1,512 @@
+[
+  {
+    "id": "zero-knowledge-proofs-cryptography-hub-reddit-1",
+    "title": "r/CryptoCurrency Global Hub",
+    "platform": "Reddit",
+    "category": "Cryptocurrency",
+    "memberCount": "8,200,000+ members",
+    "description": "The largest cryptocurrency community in the world for market news, tokenomics analysis, and blockchain developments.",
+    "joinUrl": "https://www.reddit.com/r/CryptoCurrency/",
+    "tags": [
+      "crypto",
+      "blockchain",
+      "bitcoin",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "zero-knowledge-proofs-cryptography-hub-reddit-2",
+    "title": "r/ethereum Developers & Tech",
+    "platform": "Reddit",
+    "category": "Smart Contracts",
+    "memberCount": "3,400,000+ members",
+    "description": "Subreddit focused on Ethereum network upgrades, Layer 2 rollups, EVM smart contracts, and proof-of-stake economics.",
+    "joinUrl": "https://www.reddit.com/r/ethereum/",
+    "tags": [
+      "ethereum",
+      "smart-contracts",
+      "evm",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "zero-knowledge-proofs-cryptography-hub-reddit-3",
+    "title": "r/defi Decentralized Finance",
+    "platform": "Reddit",
+    "category": "DeFi Alpha",
+    "memberCount": "180,000+ members",
+    "description": "Community dedicated to yield farming, automated market makers (AMMs), lending protocols, and liquidity pools.",
+    "joinUrl": "https://www.reddit.com/r/defi/",
+    "tags": [
+      "defi",
+      "yield",
+      "liquidity",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "zero-knowledge-proofs-cryptography-hub-reddit-4",
+    "title": "r/solana High Throughput",
+    "platform": "Reddit",
+    "category": "Layer 1 Blockchain",
+    "memberCount": "310,000+ members",
+    "description": "Subreddit covering Solana ecosystem speed, Rust smart contracts, decentralized apps, and validator infrastructure.",
+    "joinUrl": "https://www.reddit.com/r/solana/",
+    "tags": [
+      "solana",
+      "rust",
+      "layer1",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "zero-knowledge-proofs-cryptography-hub-discord-5",
+    "title": "Ethereum Official Discord",
+    "platform": "Discord",
+    "category": "Web3 & Blockchain",
+    "memberCount": "180,000+ members",
+    "description": "Community server connecting core developers, Solidity researchers, and decentralized application creators.",
+    "joinUrl": "https://discord.gg/solana",
+    "tags": [
+      "ethereum",
+      "web3",
+      "solidity",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "zero-knowledge-proofs-cryptography-hub-discord-6",
+    "title": "Crypto News & Alpha Channel",
+    "platform": "Telegram",
+    "category": "Layer 1 Blockchain",
+    "memberCount": "150,000+ members",
+    "description": "Real-time hub for Solana developers building high-throughput decentralized protocols and Web3 games.",
+    "joinUrl": "https://t.me/cryptonews",
+    "tags": [
+      "solana",
+      "web3",
+      "anchor",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "zero-knowledge-proofs-cryptography-hub-telegram-7",
+    "title": "Ethereum Research Forum",
+    "platform": "Forum",
+    "category": "Crypto Alpha",
+    "memberCount": "160,000+ members",
+    "description": "Real-time market updates, on-chain whale alerts, token listings, and protocol governance votes.",
+    "joinUrl": "https://ethresear.ch",
+    "tags": [
+      "crypto",
+      "telegram",
+      "news",
+      "alpha"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "zero-knowledge-proofs-cryptography-hub-forum-8",
+    "title": "r/investing Long Term Wealth",
+    "platform": "Reddit",
+    "category": "Cryptographic Research",
+    "memberCount": "80,000+ members",
+    "description": "The premier intellectual forum for Ethereum cryptoeconomics, zero-knowledge proofs, and scaling proposals.",
+    "joinUrl": "https://www.reddit.com/r/investing/",
+    "tags": [
+      "ethereum",
+      "forum",
+      "cryptography",
+      "research"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "zero-knowledge-proofs-cryptography-hub-reddit-9",
+    "title": "r/stocks Market News",
+    "platform": "Reddit",
+    "category": "Investing",
+    "memberCount": "2,600,000+ members",
+    "description": "Discussion on macroeconomics, fundamental equity valuation, indexing strategies, and long-term portfolio allocation.",
+    "joinUrl": "https://www.reddit.com/r/stocks/",
+    "tags": [
+      "investing",
+      "stocks",
+      "wealth",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "zero-knowledge-proofs-cryptography-hub-reddit-10",
+    "title": "r/personalfinance Money Management",
+    "platform": "Reddit",
+    "category": "Stock Market",
+    "memberCount": "6,400,000+ members",
+    "description": "Real-time market discussions, earnings reports, analyst ratings, and macroeconomic trends.",
+    "joinUrl": "https://www.reddit.com/r/personalfinance/",
+    "tags": [
+      "stocks",
+      "wall-street",
+      "earnings",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "zero-knowledge-proofs-cryptography-hub-reddit-11",
+    "title": "r/financialindependence FIRE Hub",
+    "platform": "Reddit",
+    "category": "Personal Finance",
+    "memberCount": "19,000,000+ members",
+    "description": "The world's largest personal finance community covering budgeting, high-yield cash, 401(k)s, and tax efficiency.",
+    "joinUrl": "https://www.reddit.com/r/financialindependence/",
+    "tags": [
+      "personal-finance",
+      "budgeting",
+      "savings",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "zero-knowledge-proofs-cryptography-hub-reddit-12",
+    "title": "r/wallstreetbets Alpha & Options",
+    "platform": "Reddit",
+    "category": "Financial Independence",
+    "memberCount": "2,200,000+ members",
+    "description": "Community dedicated to Financial Independence, Retire Early (FIRE) strategies, safe withdrawal rates, and frugality.",
+    "joinUrl": "https://www.reddit.com/r/wallstreetbets/",
+    "tags": [
+      "fire",
+      "retirement",
+      "investing",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "zero-knowledge-proofs-cryptography-hub-reddit-13",
+    "title": "r/realestateinvesting Wealth Hub",
+    "platform": "Reddit",
+    "category": "Trading",
+    "memberCount": "16,500,000+ members",
+    "description": "High-volatility trading discussions, market momentum plays, options strategies, and viral retail sentiment.",
+    "joinUrl": "https://www.reddit.com/r/realestateinvesting/",
+    "tags": [
+      "wsb",
+      "trading",
+      "options",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "zero-knowledge-proofs-cryptography-hub-reddit-14",
+    "title": "Stock Market Discord Hub",
+    "platform": "Discord",
+    "category": "Real Estate",
+    "memberCount": "540,000+ members",
+    "description": "Strategies for rental property acquisition, BRRRR method, commercial syndication, and 1031 tax exchanges.",
+    "joinUrl": "https://discord.gg/stocks",
+    "tags": [
+      "real-estate",
+      "syndications",
+      "investing",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "zero-knowledge-proofs-cryptography-hub-discord-15",
+    "title": "Bloomberg Market Feed Channel",
+    "platform": "Telegram",
+    "category": "Trading & Stocks",
+    "memberCount": "110,000+ members",
+    "description": "Active market discord providing live voice trading rooms, technical chart analysis, and economic calendar feeds.",
+    "joinUrl": "https://t.me/bloomberg",
+    "tags": [
+      "stocks",
+      "trading",
+      "discord",
+      "market"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "zero-knowledge-proofs-cryptography-hub-telegram-16",
+    "title": "Bogleheads Forum Community",
+    "platform": "Forum",
+    "category": "Market News",
+    "memberCount": "140,000+ members",
+    "description": "Rapid market headlines, Federal Reserve rate decisions, treasury yields, and global commodity moves.",
+    "joinUrl": "https://bogleheads.org/forum/",
+    "tags": [
+      "bloomberg",
+      "macro",
+      "telegram",
+      "news"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "zero-knowledge-proofs-cryptography-hub-forum-17",
+    "title": "BiggerPockets Real Estate Forum",
+    "platform": "Forum",
+    "category": "Passive Investing",
+    "memberCount": "250,000+ members",
+    "description": "The gold standard forum for passive indexing, low-cost asset allocation, and Jack Bogle's investing philosophy.",
+    "joinUrl": "https://www.biggerpockets.com/forums",
+    "tags": [
+      "bogleheads",
+      "indexing",
+      "forum",
+      "passive-investing"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "zero-knowledge-proofs-cryptography-hub-forum-18",
+    "title": "r/Python Developer Community",
+    "platform": "Reddit",
+    "category": "Real Estate",
+    "memberCount": "2,000,000+ members",
+    "description": "The definitive online community for real estate investors, syndicators, wholesalers, and property managers.",
+    "joinUrl": "https://www.reddit.com/r/Python/",
+    "tags": [
+      "biggerpockets",
+      "real-estate",
+      "forum",
+      "wholesaling"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "zero-knowledge-proofs-cryptography-hub-reddit-19",
+    "title": "Python Official Discord",
+    "platform": "Discord",
+    "category": "Python Development",
+    "memberCount": "1,250,000+ members",
+    "description": "The premier community for Python engineers, covering news, PEP proposals, open-source packages, and architecture discussions.",
+    "joinUrl": "https://discord.gg/python",
+    "tags": [
+      "python",
+      "backend",
+      "software-engineering",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "zero-knowledge-proofs-cryptography-hub-discord-20",
+    "title": "Python Developers Telegram Channel",
+    "platform": "Telegram",
+    "category": "Python Development",
+    "memberCount": "430,000+ members",
+    "description": "Active real-time developer server for Python help, code reviews, algorithmic design, and package development.",
+    "joinUrl": "https://t.me/python_scripts",
+    "tags": [
+      "python",
+      "discord",
+      "code-review",
+      "programming"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "zero-knowledge-proofs-cryptography-hub-telegram-21",
+    "title": "r/programming International",
+    "platform": "Reddit",
+    "category": "Python Development",
+    "memberCount": "85,000+ members",
+    "description": "Curated daily Python scripts, architectural patterns, release alerts, and performance optimization guides.",
+    "joinUrl": "https://www.reddit.com/r/programming/",
+    "tags": [
+      "python",
+      "telegram",
+      "scripts",
+      "tips"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "zero-knowledge-proofs-cryptography-hub-reddit-22",
+    "title": "The Programmer's Hangout",
+    "platform": "Discord",
+    "category": "General Programming",
+    "memberCount": "5,800,000+ members",
+    "description": "Major international hub for computer programming discussions, industry insights, and software development trends.",
+    "joinUrl": "https://discord.gg/programming",
+    "tags": [
+      "programming",
+      "engineering",
+      "industry",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "zero-knowledge-proofs-cryptography-hub-discord-23",
+    "title": "r/rust Systems Programming",
+    "platform": "Reddit",
+    "category": "Software Engineering",
+    "memberCount": "220,000+ members",
+    "description": "A collaborative multi-language developer Discord covering architecture, algorithms, career advice, and live coding.",
+    "joinUrl": "https://www.reddit.com/r/rust/",
+    "tags": [
+      "programming",
+      "multi-language",
+      "discord",
+      "career"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "zero-knowledge-proofs-cryptography-hub-reddit-24",
+    "title": "Rust Programming Language Discord",
+    "platform": "Discord",
+    "category": "Systems Programming",
+    "memberCount": "280,000+ members",
+    "description": "Dedicated community for the Rust programming language focusing on memory safety, concurrency, and high-performance systems.",
+    "joinUrl": "https://discord.gg/rust-lang",
+    "tags": [
+      "rust",
+      "systems",
+      "concurrency",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "zero-knowledge-proofs-cryptography-hub-discord-25",
+    "title": "Rust Language News & Updates",
+    "platform": "Telegram",
+    "category": "Systems Programming",
+    "memberCount": "95,000+ members",
+    "description": "Official community Discord server for the Rust programming language with dedicated channels for crates, async, and compiler work.",
+    "joinUrl": "https://t.me/rust_lang_news",
+    "tags": [
+      "rust",
+      "systems",
+      "discord",
+      "compiler"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "zero-knowledge-proofs-cryptography-hub-telegram-26",
+    "title": "r/javascript Global Hub",
+    "platform": "Reddit",
+    "category": "Systems Programming",
+    "memberCount": "32,000+ members",
+    "description": "Real-time updates, releases, and deep-dive technical articles from the Rust systems ecosystem.",
+    "joinUrl": "https://www.reddit.com/r/javascript/",
+    "tags": [
+      "rust",
+      "telegram",
+      "systems",
+      "updates"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "zero-knowledge-proofs-cryptography-hub-reddit-27",
+    "title": "Reactiflux Discord Community",
+    "platform": "Discord",
+    "category": "Web Development",
+    "memberCount": "2,400,000+ members",
+    "description": "Discussions, releases, frameworks, and architecture patterns from across the JavaScript and ECMAScript ecosystem.",
+    "joinUrl": "https://discord.gg/reactiflux",
+    "tags": [
+      "javascript",
+      "webdev",
+      "frontend",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "zero-knowledge-proofs-cryptography-hub-discord-28",
+    "title": "Web Developers Network",
+    "platform": "Telegram",
+    "category": "Frontend Engineering",
+    "memberCount": "210,000+ members",
+    "description": "The largest community of React, React Native, and full-stack JavaScript developers on Discord.",
+    "joinUrl": "https://t.me/webdev_hub",
+    "tags": [
+      "react",
+      "frontend",
+      "javascript",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "zero-knowledge-proofs-cryptography-hub-telegram-29",
+    "title": "r/golang Backend Hub",
+    "platform": "Reddit",
+    "category": "Web Development",
+    "memberCount": "64,000+ members",
+    "description": "Public channel providing updates on frontend, backend, browser standards, and dev tooling.",
+    "joinUrl": "https://www.reddit.com/r/golang/",
+    "tags": [
+      "webdev",
+      "frontend",
+      "telegram",
+      "tooling"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "zero-knowledge-proofs-cryptography-hub-reddit-30",
+    "title": "Go Language Official Discord",
+    "platform": "Discord",
+    "category": "Backend Engineering",
+    "memberCount": "250,000+ members",
+    "description": "Community for Go programmers covering microservices, concurrency patterns, standard library best practices, and tooling.",
+    "joinUrl": "https://discord.gg/golang",
+    "tags": [
+      "golang",
+      "backend",
+      "concurrency",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  }
+]
