@@ -4,10 +4,17 @@
     <title>Zero-Knowledge Proofs &amp; Cryptography Hub</title>
     <link>https://zk-proofs-cryptography-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 14 Sep 2026 06:09:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 10:49:05 GMT</lastBuildDate>
     <atom:link href="https://zk-proofs-cryptography-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                <item>
+                    <item>
+      <title>📅 Today's Fresh Pick: r/webdev Builders Hub (Reddit)</title>
+      <link>https://www.reddit.com/r/webdev/</link>
+      <guid isPermaLink="false">https://zk-proofs-cryptography-hub.netlify.app/#zk-proofs-cryptography-hub-reddit-20260914-1-2026-09-14</guid>
+      <pubDate>Mon, 14 Sep 2026 10:49:05 GMT</pubDate>
+      <description>Newly verified community added to Zero-Knowledge Proofs &amp; Cryptography Hub: A community dedicated to all things web development, client and server-side architectures, and UI/UX design.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/cpp High Performance Systems (Reddit)</title>
       <link>https://www.reddit.com/r/cpp/</link>
       <guid isPermaLink="false">https://zk-proofs-cryptography-hub.netlify.app/#zk-proofs-cryptography-hub-reddit-20260914-1-2026-09-14</guid>

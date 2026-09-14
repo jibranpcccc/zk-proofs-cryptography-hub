@@ -1,6 +1,25 @@
 [
   {
     "id": "zk-proofs-cryptography-hub-reddit-20260914-1",
+    "title": "r/webdev Builders Hub",
+    "platform": "Reddit",
+    "category": "Web Development",
+    "memberCount": "2,200,000+ members",
+    "description": "A community dedicated to all things web development, client and server-side architectures, and UI/UX design.",
+    "joinUrl": "https://www.reddit.com/r/webdev/",
+    "tags": [
+      "webdev",
+      "fullstack",
+      "frontend",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-14"
+  },
+  {
+    "id": "zk-proofs-cryptography-hub-reddit-20260914-1",
     "title": "r/cpp High Performance Systems",
     "platform": "Reddit",
     "category": "Systems Programming",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-14"
   },
   {
