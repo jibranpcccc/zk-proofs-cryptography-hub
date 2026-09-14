@@ -4,10 +4,17 @@
     <title>Zero-Knowledge Proofs &amp; Cryptography Hub</title>
     <link>https://zk-proofs-cryptography-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 13 Sep 2026 14:05:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 06:09:17 GMT</lastBuildDate>
     <atom:link href="https://zk-proofs-cryptography-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-            <item>
+                <item>
+      <title>📅 Today's Fresh Pick: r/cpp High Performance Systems (Reddit)</title>
+      <link>https://www.reddit.com/r/cpp/</link>
+      <guid isPermaLink="false">https://zk-proofs-cryptography-hub.netlify.app/#zk-proofs-cryptography-hub-reddit-20260914-1-2026-09-14</guid>
+      <pubDate>Mon, 14 Sep 2026 06:09:17 GMT</pubDate>
+      <description>Newly verified community added to Zero-Knowledge Proofs &amp; Cryptography Hub: Discussions on modern C++ (C++17/20/23), memory models, template metaprogramming, and graphics pipelines.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: TypeScript Community Discord (Discord)</title>
       <link>https://discord.gg/typescript</link>
       <guid isPermaLink="false">https://zk-proofs-cryptography-hub.netlify.app/#zk-proofs-cryptography-hub-discord-20260913-1-2026-09-13</guid>
