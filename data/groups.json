@@ -1,17 +1,17 @@
 [
   {
     "id": "zk-proofs-cryptography-hub-discord-20260915-1",
-    "title": "Devcord Web Developers",
+    "title": "Zero Knowledge Community Discord",
     "platform": "Discord",
-    "category": "Web Development",
-    "memberCount": "48,000+ members",
-    "description": "Friendly web development and programming community covering modern web stacks, design, and career growth.",
-    "joinUrl": "https://discord.gg/devcord",
+    "category": "Zero Knowledge Cryptography",
+    "memberCount": "34,000+ members",
+    "description": "The official Discord server for the Zero Knowledge podcast and research community, discussing zk-SNARKs, zk-STARKs, PLONK, and zkVM architectures.",
+    "joinUrl": "https://discord.gg/zeroknowledge",
     "tags": [
-      "webdev",
-      "discord",
-      "fullstack",
-      "design"
+      "zk",
+      "cryptography",
+      "zero-knowledge",
+      "discord"
     ],
     "verified": true,
     "featured": true,

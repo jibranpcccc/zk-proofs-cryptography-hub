@@ -4,10 +4,17 @@
     <title>Zero-Knowledge Proofs &amp; Cryptography Hub</title>
     <link>https://zk-proofs-cryptography-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 15 Sep 2026 06:04:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 11:18:33 GMT</lastBuildDate>
     <atom:link href="https://zk-proofs-cryptography-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                        <item>
+                            <item>
+      <title>📅 Today's Fresh Pick: Zero Knowledge Community Discord (Discord)</title>
+      <link>https://discord.gg/zeroknowledge</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/zk-proofs-cryptography-hub/#zk-proofs-cryptography-hub-discord-20260915-1-2026-09-15</guid>
+      <pubDate>Tue, 15 Sep 2026 11:18:33 GMT</pubDate>
+      <description>Newly verified community added to Zk Proofs Cryptography Hub: The official Discord server for the Zero Knowledge podcast and research community, discussing zk-SNARKs, zk-STARKs, PLONK, and zkVM architectures.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Devcord Web Developers (Discord)</title>
       <link>https://discord.gg/devcord</link>
       <guid isPermaLink="false">https://zk-proofs-cryptography-hub.netlify.app/#zk-proofs-cryptography-hub-discord-20260915-1-2026-09-15</guid>
