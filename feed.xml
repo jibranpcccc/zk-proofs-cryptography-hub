@@ -4,10 +4,17 @@
     <title>Zero-Knowledge Proofs &amp; Cryptography Hub</title>
     <link>https://zk-proofs-cryptography-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 20 Sep 2026 06:07:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 06:04:51 GMT</lastBuildDate>
     <atom:link href="https://zk-proofs-cryptography-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                        <item>
+                                            <item>
+      <title>📅 Today's Fresh Pick: Tailwind CSS Discord (Discord)</title>
+      <link>https://discord.gg/tailwind</link>
+      <guid isPermaLink="false">https://zk-proofs-cryptography-hub.netlify.app/#zk-proofs-cryptography-hub-discord-20260921-1-2026-09-21</guid>
+      <pubDate>Mon, 21 Sep 2026 06:04:51 GMT</pubDate>
+      <description>Newly verified community added to Zero-Knowledge Proofs &amp; Cryptography Hub: Official community for Tailwind CSS utility-first design, component architectures, and responsive layout styling.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Vue Land Community Discord (Discord)</title>
       <link>https://discord.gg/vue</link>
       <guid isPermaLink="false">https://zk-proofs-cryptography-hub.netlify.app/#zk-proofs-cryptography-hub-discord-20260920-1-2026-09-20</guid>
