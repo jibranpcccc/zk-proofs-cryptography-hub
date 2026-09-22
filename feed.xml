@@ -4,10 +4,17 @@
     <title>Zero-Knowledge Proofs &amp; Cryptography Hub</title>
     <link>https://zk-proofs-cryptography-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 21 Sep 2026 06:04:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 06:04:53 GMT</lastBuildDate>
     <atom:link href="https://zk-proofs-cryptography-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                            <item>
+                                                <item>
+      <title>📅 Today's Fresh Pick: Rust Language GitHub Discussions (GitHub)</title>
+      <link>https://users.rust-lang.org</link>
+      <guid isPermaLink="false">https://zk-proofs-cryptography-hub.netlify.app/#zk-proofs-cryptography-hub-github-20260922-1-2026-09-22</guid>
+      <pubDate>Tue, 22 Sep 2026 06:04:53 GMT</pubDate>
+      <description>Newly verified community added to Zero-Knowledge Proofs &amp; Cryptography Hub: Official GitHub Discussions board for the Rust programming language compiler, RFCs, and tools.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Tailwind CSS Discord (Discord)</title>
       <link>https://discord.gg/tailwind</link>
       <guid isPermaLink="false">https://zk-proofs-cryptography-hub.netlify.app/#zk-proofs-cryptography-hub-discord-20260921-1-2026-09-21</guid>
