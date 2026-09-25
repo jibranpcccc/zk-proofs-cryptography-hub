@@ -4,10 +4,17 @@
     <title>Zero-Knowledge Proofs &amp; Cryptography Hub</title>
     <link>https://zk-proofs-cryptography-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Thu, 24 Sep 2026 06:04:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 06:05:06 GMT</lastBuildDate>
     <atom:link href="https://zk-proofs-cryptography-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                        <item>
+                                                            <item>
+      <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
+      <link>https://dev.to/t/webdev</link>
+      <guid isPermaLink="false">https://zk-proofs-cryptography-hub.netlify.app/#zk-proofs-cryptography-hub-forum-20260925-1-2026-09-25</guid>
+      <pubDate>Fri, 25 Sep 2026 06:05:06 GMT</pubDate>
+      <description>Newly verified community added to Zero-Knowledge Proofs &amp; Cryptography Hub: Global developer blogging and discussion platform sharing tutorials, benchmarks, and project breakdowns.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Stack Overflow Python Questions (Forum)</title>
       <link>https://stackoverflow.com/questions/tagged/python</link>
       <guid isPermaLink="false">https://zk-proofs-cryptography-hub.netlify.app/#zk-proofs-cryptography-hub-forum-20260924-1-2026-09-24</guid>
