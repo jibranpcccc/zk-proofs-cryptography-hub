@@ -4,10 +4,17 @@
     <title>Zero-Knowledge Proofs &amp; Cryptography Hub</title>
     <link>https://zk-proofs-cryptography-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 11 Oct 2026 06:05:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 06:05:22 GMT</lastBuildDate>
     <atom:link href="https://zk-proofs-cryptography-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                            <item>
+                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://zk-proofs-cryptography-hub.netlify.app/#zk-proofs-cryptography-hub-forum-20261003-1-2026-10-13</guid>
+      <pubDate>Tue, 13 Oct 2026 06:05:22 GMT</pubDate>
+      <description>Newly verified community added to Zero-Knowledge Proofs &amp; Cryptography Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://zk-proofs-cryptography-hub.netlify.app/#zk-proofs-cryptography-hub-forum-20261003-1-2026-10-11</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://zk-proofs-cryptography-hub.netlify.app/#zk-proofs-cryptography-hub-reddit-20260914-1-2026-09-14</guid>
       <pubDate>Mon, 14 Sep 2026 06:09:17 GMT</pubDate>
       <description>Newly verified community added to Zero-Knowledge Proofs &amp; Cryptography Hub: Discussions on modern C++ (C++17/20/23), memory models, template metaprogramming, and graphics pipelines.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: TypeScript Community Discord (Discord)</title>
-      <link>https://discord.gg/typescript</link>
-      <guid isPermaLink="false">https://zk-proofs-cryptography-hub.netlify.app/#zk-proofs-cryptography-hub-discord-20260913-1-2026-09-13</guid>
-      <pubDate>Sun, 13 Sep 2026 14:05:11 GMT</pubDate>
-      <description>Newly verified community added to Zero-Knowledge Proofs &amp; Cryptography Hub: Active community for advanced TypeScript types, generics, compiler plugins, and framework integrations.</description>
     </item>
   </channel>
 </rss>
