@@ -4,10 +4,17 @@
     <title>Zero-Knowledge Proofs &amp; Cryptography Hub</title>
     <link>https://zk-proofs-cryptography-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Fri, 16 Oct 2026 06:05:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 06:05:09 GMT</lastBuildDate>
     <atom:link href="https://zk-proofs-cryptography-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                        <item>
+                                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://zk-proofs-cryptography-hub.netlify.app/#zk-proofs-cryptography-hub-forum-20261003-1-2026-10-17</guid>
+      <pubDate>Sat, 17 Oct 2026 06:05:09 GMT</pubDate>
+      <description>Newly verified community added to Zero-Knowledge Proofs &amp; Cryptography Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://zk-proofs-cryptography-hub.netlify.app/#zk-proofs-cryptography-hub-forum-20261003-1-2026-10-16</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/zk-proofs-cryptography-hub/#zk-proofs-cryptography-hub-discord-20260915-1-2026-09-15</guid>
       <pubDate>Tue, 15 Sep 2026 11:18:33 GMT</pubDate>
       <description>Newly verified community added to Zk Proofs Cryptography Hub: The official Discord server for the Zero Knowledge podcast and research community, discussing zk-SNARKs, zk-STARKs, PLONK, and zkVM architectures.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Devcord Web Developers (Discord)</title>
-      <link>https://discord.gg/devcord</link>
-      <guid isPermaLink="false">https://zk-proofs-cryptography-hub.netlify.app/#zk-proofs-cryptography-hub-discord-20260915-1-2026-09-15</guid>
-      <pubDate>Tue, 15 Sep 2026 06:04:42 GMT</pubDate>
-      <description>Newly verified community added to Zero-Knowledge Proofs &amp; Cryptography Hub: Friendly web development and programming community covering modern web stacks, design, and career growth.</description>
     </item>
   </channel>
 </rss>
