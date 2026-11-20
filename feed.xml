@@ -4,10 +4,17 @@
     <title>Zero-Knowledge Proofs &amp; Cryptography Hub</title>
     <link>https://zk-proofs-cryptography-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Thu, 19 Nov 2026 06:44:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 06:05:26 GMT</lastBuildDate>
     <atom:link href="https://zk-proofs-cryptography-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: r/defi Decentralized Finance (Reddit)</title>
+      <link>https://www.reddit.com/r/defi/</link>
+      <guid isPermaLink="false">https://zk-proofs-cryptography-hub.netlify.app/#zero-knowledge-proofs-cryptography-hub-reddit-3-2026-11-20</guid>
+      <pubDate>Fri, 20 Nov 2026 06:05:26 GMT</pubDate>
+      <description>Newly verified community added to Zero-Knowledge Proofs &amp; Cryptography Hub: Community dedicated to yield farming, automated market makers (AMMs), lending protocols, and liquidity pools.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/ethereum Developers &amp; Tech (Reddit)</title>
       <link>https://www.reddit.com/r/ethereum/</link>
       <guid isPermaLink="false">https://zk-proofs-cryptography-hub.netlify.app/#zero-knowledge-proofs-cryptography-hub-reddit-2-2026-11-19</guid>
@@ -173,13 +180,6 @@
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://zk-proofs-cryptography-hub.netlify.app/#zk-proofs-cryptography-hub-forum-20261003-1-2026-10-21</guid>
       <pubDate>Wed, 21 Oct 2026 06:05:36 GMT</pubDate>
-      <description>Newly verified community added to Zero-Knowledge Proofs &amp; Cryptography Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
-      <link>https://news.ycombinator.com</link>
-      <guid isPermaLink="false">https://zk-proofs-cryptography-hub.netlify.app/#zk-proofs-cryptography-hub-forum-20261003-1-2026-10-20</guid>
-      <pubDate>Tue, 20 Oct 2026 06:07:25 GMT</pubDate>
       <description>Newly verified community added to Zero-Knowledge Proofs &amp; Cryptography Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
     </item>
   </channel>
