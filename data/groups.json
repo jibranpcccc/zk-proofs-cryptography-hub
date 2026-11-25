@@ -1,5 +1,24 @@
 [
   {
+    "id": "zero-knowledge-proofs-cryptography-hub-forum-8",
+    "title": "r/investing Long Term Wealth",
+    "platform": "Reddit",
+    "category": "Cryptographic Research",
+    "memberCount": "80,000+ members",
+    "description": "The premier intellectual forum for Ethereum cryptoeconomics, zero-knowledge proofs, and scaling proposals.",
+    "joinUrl": "https://www.reddit.com/r/investing/",
+    "tags": [
+      "ethereum",
+      "forum",
+      "cryptography",
+      "research"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-25"
+  },
+  {
     "id": "zero-knowledge-proofs-cryptography-hub-telegram-7",
     "title": "Ethereum Research Forum",
     "platform": "Forum",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-24"
   },
   {
@@ -492,24 +511,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "zero-knowledge-proofs-cryptography-hub-forum-8",
-    "title": "r/investing Long Term Wealth",
-    "platform": "Reddit",
-    "category": "Cryptographic Research",
-    "memberCount": "80,000+ members",
-    "description": "The premier intellectual forum for Ethereum cryptoeconomics, zero-knowledge proofs, and scaling proposals.",
-    "joinUrl": "https://www.reddit.com/r/investing/",
-    "tags": [
-      "ethereum",
-      "forum",
-      "cryptography",
-      "research"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "zero-knowledge-proofs-cryptography-hub-reddit-9",
